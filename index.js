@@ -1,6 +1,6 @@
 // Write your solution here!
 
-const append = []
+const append = ["Milo", "Otis", "Garfield"]
 
 const prepend = []
 
